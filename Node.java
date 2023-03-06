@@ -1,7 +1,7 @@
 package GameEx_Final;
 /**
  * This class represents a single node in a LinkedList that implements LinkedListInterface.
- * @author Asaly.Saed
+ * @author elay levi
  *
  */
 public class Node implements NodeInterface{
