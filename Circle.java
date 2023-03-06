@@ -7,7 +7,7 @@ import java.awt.Graphics;
  * This class represents a 2D circle in the plane. Please make sure you update it
  * according to the GeoShape interface.
  * Ex4: you should update this class!
- * @author Asaly.Saed
+ * @author elay levi
  *
  */
 public class Circle implements GeoShape{
