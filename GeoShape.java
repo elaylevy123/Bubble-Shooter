@@ -11,7 +11,7 @@ import java.awt.Graphics;
  *
  * Ex4: you should NOT change this interface!
  *
- * @author Asaly.Saed
+ * @author elay levi
  */
 
 public interface GeoShape {
