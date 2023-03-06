@@ -2,7 +2,7 @@ package GameEx_Final;
 /**
  * This interface represents a LinkedList.
  * The methods includes: getting the head of the LinkedList, add a node to the LinkedList, remove a node from the LinkedList
- * @author Asaly.Saed
+ * @author elay levi
  *
  */
 public interface LinkedListInterface {
