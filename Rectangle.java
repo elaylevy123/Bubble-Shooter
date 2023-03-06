@@ -6,7 +6,7 @@ import java.awt.Graphics;
 /**
  * This class represents a 2D axis parallel rectangle.
  * Ex4: you should implement this class!
- * @author Asaly.Saed
+ * @author elay levi
  *
  */
 public class Rectangle implements GeoShape {
