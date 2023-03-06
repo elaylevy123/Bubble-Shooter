@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 /**
  * This class represents a simple GUI drawer which extends JPanel to draw and show the game components
  *  Ex4: you should NOT change this class!
- * @author Asaly.Saed
+ * @author elay levi
  */
 public class GameBox extends JPanel implements KeyListener, MouseMotionListener {
 	private LinkedList shapes = new LinkedList();
