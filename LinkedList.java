@@ -3,7 +3,7 @@ package GameEx_Final;
 /**
  * This is a simple LinkedList class that implements LinkedListInterface.
  * Ex4: you should implement this class!
- * @author Asaly.Saed
+ * @author elay levi
  *
  */
 public class LinkedList implements LinkedListInterface{
